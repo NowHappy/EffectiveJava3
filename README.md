@@ -2,6 +2,7 @@
 Effective Java 3/E Study &amp; Summary
 * original source code github : https://github.com/jbloch/effective-java-3e-source-code
 * korean version : https://github.com/WegraLee/effective-java-3e-source-code
+* author's lecture : https://www.infoq.com/presentations/effective-java-third-edition
 ## 1 Foreword
 
 | Feature | Items | Release |
